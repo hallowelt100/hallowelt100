@@ -1,7 +1,9 @@
+## Oh, hello there. Welcome to my Profile!
+
 - 👋 Hi, I’m @hallowelt100
 - 🎓 Currently studying computer science at the University of Applied Sciences Baden-Württemberg in Karlsruhe
-- 👨‍💻 Maining Python and Java
-- 🎓 Learning react.js with HTML/CSS
+- 👨‍💻 Maining Python
+- 🎓 Learning on how to get my life together
 
 
 <!---
