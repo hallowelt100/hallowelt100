@@ -5,6 +5,7 @@
 - 👨‍💻 Maining Python
 - 🎓 Learning on how to get my life together
 
+**Check out my [website](https://hw100.dev/)**
 
 <!---
 hallowelt100/hallowelt100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
