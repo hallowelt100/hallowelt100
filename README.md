@@ -1,7 +1,7 @@
 ## Oh, hello there. Welcome to my Profile!
 
 - 👋 Hi, I’m @hallowelt100
-- 🎓 Currently studying computer science at the University of Applied Sciences Baden-Württemberg in Karlsruhe
+- 🎓 Currently studying computer science at the Corporate State University Baden-Württemberg (Duale Hochschule Baden-Württemberg) in Karlsruhe
 - 👨‍💻 Maining Python
 - 🎓 Learning on how to get my life together
 
